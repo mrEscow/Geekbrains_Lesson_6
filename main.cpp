@@ -19,7 +19,7 @@
 int main() {
 	using namespace std;
 
-	setlocale(LC_ALL, "ru");
+	setlocale(LC_ALL, "Russian");
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
